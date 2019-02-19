@@ -1,0 +1,14 @@
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\bin\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.deps.json
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\bin\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.runtimeconfig.json
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\bin\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.runtimeconfig.dev.json
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\bin\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.dll
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\obj\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.csprojAssemblyReference.cache
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\obj\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\obj\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.RazorAssemblyInfo.cache
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\obj\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.RazorAssemblyInfo.cs
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\obj\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.AssemblyInfoInputs.cache
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\obj\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.AssemblyInfo.cs
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\obj\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.RazorTargetAssemblyInfo.cache
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\bin\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.pdb
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\obj\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.dll
+C:\Users\mikew\source\repos\DotnetCoreJWTAuthentication\DotnetCoreJWTAuthentication\obj\Debug\netcoreapp2.2\DotnetCoreJWTAuthentication.pdb
